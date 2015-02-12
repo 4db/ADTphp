@@ -1,7 +1,7 @@
 ADTphp
 ======
 
-Simple Abstract data type in PHP:
+Abstract data type with test case.
 
 <ul>
 <li>LinkedLis</li>
