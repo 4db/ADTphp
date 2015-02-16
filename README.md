@@ -1,7 +1,7 @@
 ADTphp
 ======
 
-Abstract data type with test case.
+Abstract data type with test case:
 
 <ul>
 <li>LinkedLis</li>
