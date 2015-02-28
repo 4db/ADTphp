@@ -40,7 +40,6 @@ class BinaryNode
 		if ($this->left !== null) {
 			$this->left->dump();
 		}
-		var_dump($this->value);
 		if ($this->right !== null) {
 			$this->right->dump();
 		}
